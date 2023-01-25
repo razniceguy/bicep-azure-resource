@@ -35,7 +35,7 @@
       },
       "storageAccountName": {
         "type": "string",
-        "defaultValue": "[format('arm', uniqueString(resourceGroup().id))]",
+        "defaultValue": "randomstore1988",
         "metadata": {
           "description": "The name of the storage account"
         }
