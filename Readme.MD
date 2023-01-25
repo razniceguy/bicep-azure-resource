@@ -1,0 +1,1 @@
+#Learning to deploy resources to Azure using Bicep and ARM templates through Github actions
